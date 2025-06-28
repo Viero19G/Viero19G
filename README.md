@@ -77,7 +77,6 @@ I'm **Gabriel Viero**, a Backend Developer specializing in **Python**, **Rust**,
 - Blockchain Fundamentals
 
 ### 📊 GitHub Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viero19G&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viero19G&layout=compact&theme=dark)
 
 ### 🌱 Currently Learning
