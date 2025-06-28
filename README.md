@@ -162,7 +162,6 @@ Sou **Gabriel Viero**, um desenvolvedor Backend especializado em **Python**, **R
 - Fundamentos em Blockchain
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub do Gabriel](https://github-readme-stats.vercel.app/api?username=Viero19G&show_icons=true&theme=dark)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Viero19G&layout=compact&theme=dark)
 
 ### 🌱 Atualmente Aprendendo
